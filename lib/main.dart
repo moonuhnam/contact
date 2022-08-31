@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
           appBar: AppBar(
               actions: [IconButton(onPressed: (){}, icon: Icon(Icons.menu))],
               leading: IconButton(onPressed: (){}, icon: Icon(Icons.arrow_back)),
-              title: Text('남정학')
+              title: Text('카구족')
           ),
           body: SizedBox(
               width: double.infinity,
