@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
       appBar: AppBar(
           actions: [IconButton(onPressed: () {}, icon: Icon(Icons.notifications))],
           leading: IconButton(onPressed: () {}, icon: Icon(Icons.menu)),
-          title: Text('카구족')),
+          title: Text('냥냥')),
       body: Container(
         child: Text('지도'),
       ),
