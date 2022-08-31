@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
           leading: IconButton(onPressed: () {}, icon: Icon(Icons.menu)),
           title: Text('냥냥')),
       body: Container(
-        child: Text('지도'),
+        child: Text('어어'),
       ),
     ));
   }
