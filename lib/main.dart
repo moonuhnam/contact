@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
           appBar: AppBar(
               actions: [IconButton(onPressed: (){}, icon: Icon(Icons.menu))],
               leading: IconButton(onPressed: (){}, icon: Icon(Icons.arrow_back)),
-              title: Text('new 브랜치 테스트2')
+              title: Text('푸시테스트')
           ),
           body: SizedBox(
               width: double.infinity,
